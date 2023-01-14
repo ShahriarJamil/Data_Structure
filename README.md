@@ -1,2 +1,2 @@
-# Data_Structure_2.1
+# Data_Structure_(2nd_year_2nd_semester)
 Lab problem solve
